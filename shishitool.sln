@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "shishitool", "shishitool\shishitool.pyproj", "{C63E7C14-C3FE-41B9-83B3-EC3D1CC20A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63E7C14-C3FE-41B9-83B3-EC3D1CC20A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63E7C14-C3FE-41B9-83B3-EC3D1CC20A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E4CAAC0-60FB-46C6-972E-D1AA31DBD663}
+	EndGlobalSection
+EndGlobal
